@@ -1,33 +1,104 @@
 {
-  "projects": [
+  "news": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "image": "https://i.pinimg.com/736x/19/75/40/197540f29d25cb9e09614c8418daf9ea.jpg",
+      "title": "Ibai Llanos compra el Real Madrid",
+      "subtitle": "El streamer revoluciona el fútbol mundial",
+      "article": "En un giro inesperado, Ibai Llanos ha anunciado la compra del Real Madrid en un directo de Twitch. \"Siempre quise un equipo top, pero no esperaba que fuera este\", comentó entre risas. Florentino Pérez, al parecer, ha aceptado la oferta tras una partida de FIFA. Se esperan cambios radicales en el equipo, incluyendo la entrada de streamers como titulares y la creación de la Champions League de eSports.",
+      "tags": "Economy",
+      "editor": "Luis Alberto",
+      "date": "2025-02-14"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "image": "https://images.reporteindigo.com/wp-content/uploads/2024/08/consejos-para-ser-gamer-como-empezar-en-el-mundo-de-los-videojuegos.jpg",
+      "title": "Nuevos lanzamientos de videojuegos",
+      "subtitle": "Este año llega una avalancha de títulos épicos",
+      "article": "Las principales desarrolladoras han anunciado sus próximos juegos y los fans están enloquecidos. Entre los más esperados se encuentran 'Elden Scrolls VI', 'Call of Duty: Guerra de Vecinos' y 'Super Mario Multiverso'. Las preventas ya han colapsado varias tiendas online y los analistas predicen que 2025 será el año con más ingresos en la historia de la industria gamer.",
+      "tags": "Videogames",
+      "editor": "Elena Ruiz",
+      "date": "2025-02-13"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "image": "https://fotografias.larazon.es/clipping/cmsimages01/2024/11/23/4927239B-05AA-4076-BB43-4B2216490050/98.jpg?crop=3100,1744,x0,y161&width=1900&height=1069&optimize=low&format=webply",
+      "title": "¡No es un sueño! La UD Las Palmas golea al FC Barcelona 7-1",
+      "subtitle": "Los aficionados aún no lo pueden creer",
+      "article": "El estadio de Gran Canaria se convirtió en una fiesta tras la histórica victoria de la UD Las Palmas sobre el FC Barcelona. El equipo amarillo mostró un fútbol brillante y aprovechó cada oportunidad ante una defensa azulgrana desconectada. Los hinchas corearon el nombre del entrenador y ya sueñan con puestos europeos. 'Es un día histórico', comentó un aficionado emocionado.",
+      "tags": "Sports",
+      "editor": "Diego Herrera",
+      "date": "2025-02-12"
+    },
+    {
+      "id": 4,
+      "image": "https://raed.academy/wp-content/uploads/2020/11/pildoras-de-economia-dst.jpg",
+      "title": "Economía global en 2025",
+      "subtitle": "Los expertos analizan las turbulencias financieras",
+      "article": "El FMI ha publicado su informe sobre las expectativas económicas para este año. Con la inflación todavía presente y mercados volátiles, los analistas predicen un crecimiento desigual entre las grandes potencias. China sigue avanzando, mientras que Europa enfrenta una posible recesión. Los inversores buscan alternativas en criptomonedas y startups tecnológicas.",
+      "tags": "Economy",
+      "editor": "Luis Alberto",
+      "date": "2025-02-05"
+    },
+    {
+      "title": "Lo que trae la Blizzcon",
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/10/blizzcon.jpg?tf=3840x",
+      "subtitle": "Anuncios épicos y sorpresas inesperadas",
+      "article": "El evento más importante de Blizzard está por llegar y los rumores apuntan a grandes anuncios. Se habla de la posible revelación de 'Warcraft IV' y una nueva expansión de 'World of Warcraft'. Además, la compañía planea integrar inteligencia artificial en su desarrollo de juegos. Los fans esperan con ansias este evento, que será transmitido en vivo con acceso gratuito.",
+      "tags": "Videogames",
+      "date": "2025-02-10",
+      "editor": "Elena Ruiz",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "image": "https://statics.memondo.com/p/99/mmds/2012/06/MMD_3759_cf91a819fee94a9fa3578e505c26c5eb_futbol_tiene_3_balones_de_oro_thumb_fb.jpg?cb=806207",
+      "title": "Messi rompe otro récord",
+      "subtitle": "El delantero argentino sigue haciendo historia",
+      "article": "Con su último gol, Messi ha superado una nueva marca histórica. El astro argentino suma su gol número 900 en competiciones oficiales, dejando atrás a todas las leyendas del fútbol. Los aficionados y expertos ya lo consideran el mejor de todos los tiempos, aunque los debates sobre quién es el GOAT siguen encendidos en redes sociales.",
+      "tags": "Sports",
+      "editor": "Diego Herrera",
+      "date": "2025-02-09"
+    },
+    {
+      "id": 7,
+      "image": "https://www.criptonoticias.com/wp-content/uploads/2025/02/image-2025-02-07T085237.703-750x375.jpg",
+      "title": "El futuro del Bitcoin",
+      "subtitle": "Analistas debaten su evolución",
+      "article": "El precio del Bitcoin ha fluctuado drásticamente en los últimos meses, generando incertidumbre en los inversores. Mientras algunos expertos predicen un alza histórica, otros advierten sobre una posible caída abrupta. La regulación gubernamental y la adopción masiva serán factores clave en el futuro de esta criptomoneda líder.",
+      "tags": "Economy",
+      "editor": "Luis Alberto",
+      "date": "2025-02-08"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/12/gta-6-lucia-3243066.jpg?tf=3840x",
+      "title": "GTA VI: Primer tráiler oficial",
+      "subtitle": "Rockstar revela detalles del esperado juego",
+      "article": "El estudio ha publicado el primer tráiler de la nueva entrega de GTA y la reacción del público ha sido explosiva. Con gráficos de última generación y una ciudad más viva que nunca, el juego promete revolucionar la industria. Además, se ha confirmado un sistema de historia dinámica con múltiples finales, aumentando la rejugabilidad.",
+      "tags": "Videogames",
+      "editor": "Elena Ruiz",
+      "date": "2025-02-07"
+    },
+    {
+      "id": 9,
+      "image": "https://www.unicajabanco.es/content/dam/unicaja/unicaja-corporacion/galeria-corporacion/copa-del-rey-2025-unicaja-baloncesto.jpg",
+      "title": "El Unicaja se llava la copa",
+      "subtitle": "Triunfo histórico para el equipo malagueño",
+      "article": "El Unicaja de Málaga ha conseguido una victoria épica en la Copa del Rey tras derrotar al favorito del torneo en una final de infarto. Con una defensa sólida y un ataque imparable, el equipo hizo historia y sus jugadores fueron ovacionados por la afición. Este título refuerza la posición de Unicaja en el baloncesto español.",
+      "tags": "Sports",
+      "editor": "Diego Herrera",
+      "date": "2025-02-06"
+    },
+    {
+      "id": 10,
+      "image": "https://imagenes.iberoeconomia.es/wp-content/uploads/2022/06/20221843/elon-musk-is-taking-a-break-from-twitter-again_2pfc1200webp.jpeg.jpg",
+      "title": "Elon Musk no llega a final de mes",
+      "subtitle": "El magnate enfrenta tiempos difíciles (según él)",
+      "article": "En una entrevista reciente, Elon Musk bromeó sobre sus finanzas diciendo que 'con tantos proyectos, a veces ni yo llego a fin de mes'. Aunque su fortuna sigue en miles de millones, la compra de Twitter, SpaceX y Tesla han generado gastos colosales. Sus seguidores se preguntan si esto afectará sus futuras inversiones.",
+      "tags": "Economy",
+      "editor": "Luis Alberto",
+      "date": "2025-02-05"
     }
   ]
 }
