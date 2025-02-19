@@ -41,24 +41,24 @@
       "date": "2025-02-05"
     },
     {
+      "id": 5,
       "title": "Lo que trae la Blizzcon",
       "image": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2019/10/blizzcon.jpg?tf=3840x",
       "subtitle": "Anuncios épicos y sorpresas inesperadas",
       "article": "El evento más importante de Blizzard está por llegar y los rumores apuntan a grandes anuncios. Se habla de la posible revelación de 'Warcraft IV' y una nueva expansión de 'World of Warcraft'. Además, la compañía planea integrar inteligencia artificial en su desarrollo de juegos. Los fans esperan con ansias este evento, que será transmitido en vivo con acceso gratuito.",
       "tags": "Videogames",
-      "date": "2025-02-10",
       "editor": "Elena Ruiz",
-      "id": 5
+      "date": "2025-02-10"
     },
     {
+      "id": 6,
       "title": "Messi rompe otro récord",
       "subtitle": "El delantero argentino sigue haciendo historia",
       "image": "https://statics.memondo.com/p/99/mmds/2012/06/MMD_3759_cf91a819fee94a9fa3578e505c26c5eb_futbol_tiene_3_balones_de_oro_thumb_fb.jpg?cb=806207",
       "article": "Con su último gol, Messi ha superado una nueva marca histórica. El astro argentino suma su gol número 900 en competiciones oficiales, dejando atrás a todas las leyendas del fútbol. Los aficionados y expertos ya lo consideran el mejor de todos los tiempos, aunque los debates sobre quién es el GOAT siguen encendidos en redes sociales.",
       "tags": "Sports",
-      "date": "2025-02-09",
       "editor": "Diego Herrera",
-      "id": 6
+      "date": "2025-02-09"
     },
     {
       "id": 7,
@@ -99,6 +99,32 @@
       "tags": "Economy",
       "editor": "Luis Alberto",
       "date": "2025-02-05"
+    }
+  ],
+  "editors": [
+    {
+      "id": 1,
+      "image": "https://ntvb.tmsimg.com/assets/assets/67369_v9_bd.jpg?w=360&h=480",
+      "name": "Luis Alberto",
+      "specialist": "Economia",
+      "editor_info": "Nacido en Buenos Aires, Luis descubrió su pasión por el periodismo financiero mientras estudiaba Administración de Empresas. Se unió a KevNews con el objetivo de hacer accesibles las noticias económicas a todos los públicos.",
+      "since": "2020"
+    },
+    {
+      "id": 2,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/sb-hb-aitana-001-1632818812.jpg",
+      "name": "Elena Ruiz",
+      "specialist": "Videojuegos",
+      "editor_info": "Originaria de Madrid, María comenzó su carrera en periódicos locales antes de especializarse en análisis de videojuegos y técnologias. Su vocación por la transparencia la llevó a KevNews en 2018, donde cubre eventos, entrevistas y lanzamientos clave del ámbito de los videojuegos.",
+      "since": "2018"
+    },
+    {
+      "id": 3,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/jose-carlos-montoya-la-isla-de-las-tentaciones-67936ab2985ae.jpg",
+      "name": "Diego Herrera",
+      "specialist": "Deportes",
+      "editor_info": "Criado en Santa Cruz de Tenerife, Carlos inició su trayectoria como maratoniano profesional mientras estudiaba periodismo en la Universidad de La Laguna. Fascinado por la innovación, se unió a KevNews para informar sobre eventos y tendencias del mundo deportivo.",
+      "since": "2021"
     }
   ]
 }
